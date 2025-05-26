@@ -72,3 +72,6 @@ As a data journalist (role-played), I was tasked with:
 
 ## Explore my live dashboard here
 https://app.powerbi.com/view?r=eyJrIjoiZDRjOWU5MDAtZjk3MC00NWVlLTg5MDctYjgzYmQ4NjU1ODU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+## Video presentation 
+https://www.linkedin.com/posts/sai-keerthana-dachepally-173b1b20b_%F0%9D%90%8C%F0%9D%90%B2-%F0%9D%90%85%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%84%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%95%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%A8-activity-7332037017712635905-QDuX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVhkCcB87ClZLrpuRQT9YZcqztyD1CPjp0
