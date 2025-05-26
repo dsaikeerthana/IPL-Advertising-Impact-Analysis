@@ -70,4 +70,5 @@ As a data journalist (role-played), I was tasked with:
 - Recommend endorsement strategies for players  
 - Highlight public health, youth impact, and ethical advertising models  
 
-
+## Explore my live dashboard here
+https://app.powerbi.com/view?r=eyJrIjoiZDRjOWU5MDAtZjk3MC00NWVlLTg5MDctYjgzYmQ4NjU1ODU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
